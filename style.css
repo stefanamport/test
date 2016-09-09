@@ -1,5 +1,5 @@
 body {
-	background: blue;
+	background: purple;
 
 	margin: 0px;
 }
@@ -12,6 +12,8 @@ a.button {
 
 	color: blue;
 }
+
+a {color: red;}
 
 p {
 	margin-bottom: 5px;
