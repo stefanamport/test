@@ -1,0 +1,26 @@
+body {
+	background: purple;
+
+	margin: 0px;
+
+	border: 1px solid red;
+}
+
+a.button {
+	text-decoration: none;
+	color: purple;
+	display: block;
+
+
+	color: blue;
+
+	border: 1px solid blue;
+}
+
+a {color: red;
+	border: green 1px solid;
+}
+
+p {
+	margin-bottom: 5px;
+}
