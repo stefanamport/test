@@ -1,9 +1,0 @@
-test
-eine lokale änderung
-
-eine zweite lokale änderung
-eine änderung via github
-
-eine Änderung auf dem testbranch
-
-zweite Änderung auf branch
