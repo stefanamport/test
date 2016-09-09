@@ -1,8 +1,9 @@
 body {
-	backgroun: red;
+	background: red;
 }
 
-a {
+a.button {
 	text-decoration: none;
 	color: purple;
+	display: block;
 }
