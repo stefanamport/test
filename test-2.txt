@@ -1,6 +1,2 @@
 test
-<<<<<<< HEAD
-eine Änderung via lokal
-=======
-eine änderung via github
->>>>>>> d250e4004e45a389e67504cd36aef49ddf48033b
+eine lokale änderung
