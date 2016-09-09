@@ -13,7 +13,9 @@ a.button {
 	color: blue;
 }
 
-a {color: red;}
+a {color: red;
+	border: green 1px solid;
+}
 
 p {
 	margin-bottom: 5px;
